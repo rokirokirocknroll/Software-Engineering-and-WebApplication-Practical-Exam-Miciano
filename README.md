@@ -1,1 +1,11 @@
-# Software-Engineering-and-WebApplication-Practical-Exam-Miciano
+Project Name : MyComputerShop
+
+
+Student Name : Miciano John Marvin Salcedo
+
+
+USN : 22011732410
+
+
+Description of the system : The Computer Shop Management System is a web-based platform designed for management of a computer retail store's inventory. It enables store managers to efficiently handle computer product
+                            details, including adding, updating, and deleting records of available computers. The system is designed to improve operational efficiency and enhance data organization.
